@@ -1,4 +1,3 @@
 # hello-world
 Hello World tutorial from github
-Edited Text 
-blablablablabla
+I changed this text which proves that I'm a decent open-source contributor
